@@ -144,3 +144,4 @@ Example SQL
 SELECT * FROM loans;
 
 This query is used to verify that the applications received by the Target API have been successfully stored.
+kanhu
